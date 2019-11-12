@@ -1,0 +1,10 @@
+{
+  "window.zoomLevel": 1,
+    "editor.tabSize": 2,
+    "diffEditor.ignoreTrimWhitespace": true,
+    "diffEditor.renderSideBySide": false,
+    "eslint.autoFixOnSave": true,
+        "workbench.colorCustomizations": {
+          "activityBar.background": "#5c0550"
+        }
+}
